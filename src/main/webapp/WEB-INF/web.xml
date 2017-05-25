@@ -31,6 +31,8 @@
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 	
+	
+	
 	<!-- 字符集过滤器 -->
 	<filter>
 		<filter-name>encodingFilter</filter-name>
